@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "KS_SERVERS.aternos.me",
-    "port": 19132,
+    "port": 23066,
     "version": "1.20.1",
     "try-creative": false
   },
